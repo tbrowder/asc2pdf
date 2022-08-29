@@ -7,7 +7,7 @@
   ],
   "depends": [
   ],
-  "description": "Provides program 't2pdf', a simple text-to-pdf converter
+  "description": "Provides program 't2pdf', a simple text-to-pdf converter",
   "license": "Artistic-2.0",
   "name": "App::T2PDF",
   "perl": "6.d",
