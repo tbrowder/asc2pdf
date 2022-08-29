@@ -1,0 +1,19 @@
+#!/usr/bin/env raku
+
+use App::T2pdf;
+
+if @*ARGS.elems {
+    print qq:to/HERE/;
+    Usage: {$*PROGRAM.basename} <mode> [...options][help]
+    
+    Modes:
+
+    Options:
+        help  - Detailed help
+        debug - For developer use
+        
+
+    HERE
+    exit;
+}
+
