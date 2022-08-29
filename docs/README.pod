@@ -1,0 +1,31 @@
+=begin pod
+
+=head1 NAME
+
+App::t2pdf - Provides program C<t2pdf>, a simple text-to-pdf converter
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use App::t2pdf;
+
+=end code
+
+=head1 DESCRIPTION
+
+Module B<App::t2pdf> provides a program, named C<t2pdf>, to transform a text file
+to pdf. It requires the binary file C<ps2pdf> which is available
+on most Linux hosts.
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright 2021 Tom Browder
+
+This library is free software; you can redistribute it and/or modify it under the Artistic License 2.0.
+
+=end pod

@@ -1,0 +1,6 @@
+use Test;
+use App::t2pdf;
+
+pass "replace me";
+
+done-testing;
