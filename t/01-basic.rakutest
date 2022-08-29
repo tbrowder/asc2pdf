@@ -1,5 +1,5 @@
 use Test;
-use App::t2pdf;
+use App::T2pdf;
 
 pass "replace me";
 

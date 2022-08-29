@@ -1,5 +1,5 @@
 {
-  "auth": "cpan:TBROWDER",
+  "auth": "zef:tbrowder",
   "authors": [
     "Tom Browder"
   ],
@@ -9,14 +9,14 @@
   ],
   "description": "blah blah blah",
   "license": "Artistic-2.0",
-  "name": "App::t2pdf",
+  "name": "App::T2pdf",
   "perl": "6.d",
   "provides": {
-    "App::t2pdf": "lib/App/t2pdf.rakumod"
+    "App::T2pdf": "lib/App/T2pdf.rakumod"
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/t2pdf.git",
   "tags": [
   ],
   "test-depends": [
