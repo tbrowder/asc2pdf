@@ -9,10 +9,10 @@
   ],
   "description": "blah blah blah",
   "license": "Artistic-2.0",
-  "name": "App::T2pdf",
+  "name": "App::T2PDF",
   "perl": "6.d",
   "provides": {
-    "App::T2pdf": "lib/App/T2pdf.rakumod"
+    "App::T2PDF": "lib/App/T2PDF.rakumod"
   },
   "resources": [
   ],

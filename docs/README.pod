@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-B<App::T2PDF - Provides program C<t2pdf>, a simple text-to-pdf converter
+B<App::T2PDF> - Provides program C<t2pdf>, a simple text-to-pdf converter
 
 =head1 SYNOPSIS
 
@@ -15,7 +15,7 @@ use App::T2PDF;
 =head1 DESCRIPTION
 
 Module B<App::T2PDF> provides a program, named C<t2pdf>, to transform a text file
-to pdf. It requires the binary file C<ps2pdf>, provided with the B<Ghostscript> package, which is available
+to PDF. It requires the binary file C<ps2pdf>, provided with the B<Ghostscript> package, which is available
 on most Linux hosts.
 
 Note the module also provides the following aliases for C<t2pdf>:
